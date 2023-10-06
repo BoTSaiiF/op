@@ -1,5 +1,7 @@
 Telethon==1.25.2
 Flask
+requests
+time
 cryptography
 pyminifier
 gunicorn
